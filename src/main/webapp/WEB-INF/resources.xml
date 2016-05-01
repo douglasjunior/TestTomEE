@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <Resource id="java:/testTomee" type="javax.sql.DataSource">#Wed Apr 27 22:41:21 BRT 2016
+        jdbcDriver=org.postgresql.Driver
+        password=postgres
+        userName=postgres
+        jdbcUrl=jdbc\:postgresql\://localhost\:5432/testtomee
+    </Resource>
+</resources>
